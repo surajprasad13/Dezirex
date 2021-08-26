@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dezirex</string>
+    <string name="facebook_app_id">211097744243087</string>
+    <string name="fb_login_protocol_scheme">fb211097744243087</string>
+</resources>

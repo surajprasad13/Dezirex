@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812465112186",
+    "project_id": "dzirex-daf86",
+    "storage_bucket": "dzirex-daf86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812465112186:android:ebdc63121d518467e6a7c3",
+        "android_client_info": {
+          "package_name": "com.dezirex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812465112186-d9sggb3see4oepv0hbpkb9o94i0gvjcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dezirex",
+            "certificate_hash": "77a4ec6c0a12ccff78a354fe29c2cdc15f88d89c"
+          }
+        },
+        {
+          "client_id": "812465112186-sfg7no0fabl2l558vq8oefh0p11v86ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXJsqW4lksNMsCnZ8ZWjs8KoEhw3AD0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812465112186-sfg7no0fabl2l558vq8oefh0p11v86ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
